@@ -1,0 +1,19 @@
+[10-Apr-2021 21:31:49 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Auth as Auth because the name is already in use in /home/lewdcc/leckey.dev/app/Http/Controllers/TicketController.php on line 11
+[10-Apr-2021 21:31:54 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Auth as Auth because the name is already in use in /home/lewdcc/leckey.dev/app/Http/Controllers/TicketController.php on line 11
+[11-Apr-2021 03:00:15 UTC] PHP Fatal error:  Trait 'App\ContentEllipse' not found in /home/lewdcc/leckey.dev/app/Comment.php on line 10
+[11-Apr-2021 03:01:26 UTC] PHP Fatal error:  Trait 'App\Purifiable' not found in /home/lewdcc/leckey.dev/app/Comment.php on line 10
+[11-Apr-2021 03:35:19 UTC] PHP Fatal error:  Cannot declare class App\Mailers\AppMailer, because the name is already in use in /home/lewdcc/leckey.dev/app/Http/Controllers/AppMailer.php on line 7
+[11-Apr-2021 03:35:56 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\AppMailer\AppMailer, because the name is already in use in /home/lewdcc/leckey.dev/app/Http/Controllers/AppMailer.php on line 7
+[11-Apr-2021 03:38:23 UTC] PHP Fatal error:  Cannot declare class App\Mailers\AppMailer, because the name is already in use in /home/lewdcc/leckey.dev/app/Http/Controllers/AppMailer.php on line 7
+[11-Apr-2021 03:38:34 UTC] PHP Fatal error:  Cannot declare class App\Mailers\AppMailer, because the name is already in use in /home/lewdcc/leckey.dev/app/Http/Controllers/AppMailer.php on line 7
+[11-Apr-2021 03:55:23 UTC] PHP Fatal error:  Cannot use App\Model as Model because the name is already in use in /home/lewdcc/leckey.dev/app/Comment.php on line 6
+[11-Apr-2021 03:57:38 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/lewdcc/leckey.dev/app/mailers/AppMailer.php on line 3
+[11-Apr-2021 03:58:05 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/lewdcc/leckey.dev/app/mailers/AppMailer.php on line 3
+[12-Apr-2021 04:08:33 UTC] PHP Warning:  The use statement with non-compound name 'Auth' has no effect in /home/lewdcc/leckey.dev/routes/web.php on line 8
+[12-Apr-2021 06:57:14 UTC] PHP Fatal error:  Cannot use [] for reading in /home/lewdcc/leckey.dev/storage/framework/views/fd811cacffa26de672fbe501c64ad12445023646.php on line 142
+[12-Apr-2021 16:08:31 UTC] PHP Fatal error:  Cannot use ArielMejiaDev\LarapexCharts\Facades\LarapexChart as LarapexChart because the name is already in use in /home/lewdcc/leckey.dev/app/Http/Controllers/Admin.php on line 9
+[12-Apr-2021 22:27:10 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lewdcc/leckey.dev/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php on line 1264
+[12-Apr-2021 22:35:08 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lewdcc/leckey.dev/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1618
+[12-Apr-2021 22:40:17 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lewdcc/leckey.dev/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1365
+[12-Apr-2021 22:42:57 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/lewdcc/leckey.dev/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 338
+[15-Apr-2021 01:13:00 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\TicketController::userSub() in /home/lewdcc/leckey.dev/app/Http/Controllers/TicketController.php on line 193
